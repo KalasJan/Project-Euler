@@ -1,1 +1,5 @@
-
+# Euler 684
+# s(n) je funkce, jejiz hodnota ciferneho souctu je n, napr. s(10) = 19. 
+# dale S(k) = soucet s(n) pro n=1 do k
+# mejme Fibonacciho posloupnost f0=0, f1=1, f2=1, 2, ...
+# Najdete sum S(fi) mod 1 000 000 007, pro i=1 az 90. 
