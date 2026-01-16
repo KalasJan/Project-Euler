@@ -30,4 +30,5 @@ def total(k):
         mult *= (d+1)
     return count
 
-print (total(5051))
+
+print (total(10**9))
