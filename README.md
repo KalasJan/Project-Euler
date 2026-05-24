@@ -13,4 +13,4 @@ A collection of optimized Python solutions for complex mathematical problems fro
 
 *Notes:*
 - *Scripts are focused heavily on optimized mathematical logic. File formatting and structure follow pure algorithmic implementation rules.*
-- *Note: name 'PE 2.py' means "Project Euler, problem no. 2'*
+- *Note: name 'PE X.py' means "Project Euler, problem no. X"*
